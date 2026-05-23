@@ -1,6 +1,7 @@
 # Nortix Mail
 Please star this repo if you find it useful, thank you!
-![image](https://github.com/user-attachments/assets/625d9d45-75e9-43f5-8264-57d2ed7ee7d8)
+<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/d65f391d-e1b9-4a0b-adb7-70b686935fdb" />
+
 
 # Purpose 🎯
 Whenever you sign up with your email on a website, your email address is stored and sometimes sold to advertisers. This is where you get your bulk of spam emails. Whenever a data breach happens, you also risk having your primary email address leaked and informations stolen.
