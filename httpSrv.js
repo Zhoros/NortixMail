@@ -11,7 +11,7 @@ let mod = {
 
 		app.use(express.json());
 		app.use(compression());
-		app.use(express.static('./front/html/dist'));
+		app.use(express.static('./public'));
 
 		let refreshInterval = config.getConfig("MailRefreshInterval");
 		app.post('/addresses', (_req, res) => {

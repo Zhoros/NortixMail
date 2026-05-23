@@ -1,0 +1,17 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite build --watch",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.0.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "svelte": "^5.55.0",
+    "tailwindcss": "^4.3.0",
+    "vite": "^8.0.3"
+  }
+}
