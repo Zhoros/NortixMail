@@ -135,7 +135,7 @@
 	});
 </script>
 
-<main class="min-h-screen bg-zinc-950 text-zinc-100 flex flex-col justify-between items-center p-2 antialiased relative">
+<main class="h-screen overflow-auto bg-zinc-950 text-zinc-100 flex flex-col items-center p-2 antialiased">
 	<div class="w-full max-w-2xl flex flex-col gap-3 my-auto">
 		
 		<div class="w-full bg-zinc-900 border border-zinc-800 rounded-xl p-3 sm:p-4 flex items-center justify-between gap-2 shadow-lg">
