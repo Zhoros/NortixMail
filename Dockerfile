@@ -1,4 +1,5 @@
-FROM node:20-alpine #Use older version to prevent issues
+# Use older version to prevent issues
+FROM node:20-alpine 
 
 RUN apk add --no-cache git nodejs npm
 
