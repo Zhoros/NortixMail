@@ -8,7 +8,7 @@ COPY . /app
 
 RUN npm install --production
 
-WORKDIR front
+WORKDIR svelte
 
 RUN npm install
 RUN npm run build
